@@ -3242,6 +3242,13 @@
     },
     {
         "Brand":"Electro Harmonix",
+        "Name":"B9 Organ Machine",
+        "Width":3.95,
+        "Height":4.7,
+        "Image":"ehx-b9.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
         "Name":"C9 Organ Machine",
         "Width":3.95,
         "Height":4.7,
@@ -5034,6 +5041,13 @@
     },
     {
         "Brand":"Joyo",
+        "Name":"D-SEED",
+        "Width":3.42,
+        "Height":4.645669,
+        "Image":"joyo-d-seed.png"
+    },
+    {
+        "Brand":"Joyo",
         "Name":"PXL-4",
         "Width":11.14,
         "Height":3.22835,
@@ -5752,6 +5766,13 @@
         "Width":1.63,
         "Height":3.55,
         "Image":"mxr-dynacompmini.png"
+    },
+    {
+        "Brand":"MXR",
+        "Name":"Fet Driver",
+        "Width":2.5,
+        "Height":4.3,
+        "Image":"mxr-fet-driver.png"
     },
     {
         "Brand":"MXR",
