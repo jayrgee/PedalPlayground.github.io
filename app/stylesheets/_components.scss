@@ -506,9 +506,8 @@ $body-color-dark: 	#ccc;
 		padding: 30px;
 		box-shadow: 1px 1px 0 0 rgba(white, .08);
 		img {
-			margin: auto;
 			display: block;
-			margin-bottom: 10px;
+			margin-bottom: 15px;
 			max-height: 200px;
 			width: auto;
 		}
@@ -518,6 +517,8 @@ $body-color-dark: 	#ccc;
 			color: white;
 		}
 		.pedal-brand {
+			margin-top: auto;
+			margin-bottom: 10px;
 			opacity: .5;
 			font-weight: bold;
 			text-transform: uppercase;
