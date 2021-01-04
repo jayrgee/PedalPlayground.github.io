@@ -25,6 +25,8 @@
     "http-server": "^0.12.3"
   },
   "scripts": {
+    "bower": "bower --",
+    "gulp": "gulp --",
     "serve": "http-server ./ -o",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
