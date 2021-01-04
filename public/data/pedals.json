@@ -6070,17 +6070,10 @@
     },
     {
         "Brand":"Matthews Effects",
-        "Name":"The Cosmonaut",
+        "Name":"The Cosmonaut V2",
         "Width":2.85,
         "Height":4.78,
         "Image":"matthews-cosmonaut-v2.png"
-    },
-    {
-        "Brand":"Matthews Effects",
-        "Name":"The Astronomer v2",
-        "Width":2.5,
-        "Height":4.5,
-        "Image":"matthews-theastronomer-v2.png"
     },
     {
         "Brand":"Matthews Effects",
@@ -6098,24 +6091,10 @@
     },
     {
         "Brand":"Matthews Effects",
-        "Name":"The Chemist v2",
-        "Width":2.5,
-        "Height":4.5,
-        "Image":"matthews-thechemist-v2.png"
-    },
-    {
-        "Brand":"Matthews Effects",
         "Name":"The Cosmonaut",
         "Width":2.62,
         "Height":4.78,
         "Image":"matthews-thecosmonaut.png"
-    },
-    {
-        "Brand":"Matthews Effects",
-        "Name":"The Cosmonaut v2",
-        "Width":2.5,
-        "Height":4.5,
-        "Image":"matthews-thecosmonaut-v2.png"
     },
     {
         "Brand":"Matthews Effects",
