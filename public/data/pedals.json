@@ -4628,6 +4628,13 @@
     },
     {
         "Brand":"JHS",
+        "Name":"3 Series Chorus",
+        "Width":2.85,
+        "Height":4.87,
+        "Image":"jhs-3-series-chorus.png"
+    },
+    {
+        "Brand":"JHS",
         "Name":"Smiley Fuzz",
         "Width":3.603,
         "Height":5.68,
