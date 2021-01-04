@@ -6,6 +6,9 @@ workfiles/
 app/scss/.sass-cache/*
 pedals alias
 pedals-new alias
+app/images/pedals-new/*
+!app/images/pedals-new/readme.md
+
 config.codekit3
 0_pre
 1_post

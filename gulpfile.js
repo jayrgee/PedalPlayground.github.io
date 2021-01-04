@@ -100,14 +100,31 @@ gulp.task('scripts', function() {
 });
 
 gulp.task('process-images', function() {
-	return gulp.src('app/images/pedals/*')
-        .pipe(cache('images'))
+    return gulp.src('app/images/pedals/*')
+        .pipe(cache('images', { optimizeMemory: true }))
 		.pipe(responsive({
 			'*.*': {
 				withoutEnlargement: false,
                 errorOnUnusedConfig: false,
 				width: '700',
 				height: '700',
+				max: true
+			}
+		}))
+		.pipe(imagemin())
+		.pipe(gulp.dest('public/images/pedals/'))
+});
+
+gulp.task('process-new-pedal-images', function() {
+    return gulp.src('app/images/pedals-new/*.png')
+        .pipe(gulp.dest('app/images/pedals/'))
+        .pipe(cache('images', { optimizeMemory: true }))
+		.pipe(responsive({
+			'*.*': {
+				withoutEnlargement: false,
+                errorOnUnusedConfig: false,
+				width: '500',
+				height: '500',
 				max: true
 			}
 		}))
