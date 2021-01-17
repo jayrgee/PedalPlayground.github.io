@@ -21,6 +21,8 @@ var responsive = require('gulp-responsive');
 var cache = require('gulp-cached');
 var minify = require('gulp-minify');
 
+const pedalData = require('./scripts/pedal-data');
+
 var gzip_options = {
     threshold: '1kb',
     gzipOptions: {
@@ -113,6 +115,16 @@ gulp.task('process-images', function() {
 		}))
 		.pipe(imagemin())
 		.pipe(gulp.dest('public/images/pedals/'))
+});
+
+gulp.task('merge-data', function(){
+    pedalData.mergePedalData();
+    pedalData.mergePedalboardData();
+});
+
+gulp.task('recycle-data', function(){
+    pedalData.recyclePedalData();
+    pedalData.recyclePedalboardData();
 });
 
 /* Watch Files For Changes */
