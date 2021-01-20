@@ -1,0 +1,37 @@
+[
+  {
+    "Brand": "Mono",
+    "Name": "Large",
+    "Width": 32,
+    "Height": 16,
+    "Image": "mono-large.png"
+  },
+  {
+    "Brand": "Mono",
+    "Name": "Lite",
+    "Width": 14,
+    "Height": 5.65,
+    "Image": "mono-lite-pedalboard.png"
+  },
+  {
+    "Brand": "Mono",
+    "Name": "Lite+",
+    "Width": 18,
+    "Height": 5.7,
+    "Image": "mono-liteplus-pedalboard.png"
+  },
+  {
+    "Brand": "Mono",
+    "Name": "Medium",
+    "Width": 24,
+    "Height": 14.5,
+    "Image": "mono-medium-pedalboard.png"
+  },
+  {
+    "Brand": "Mono",
+    "Name": "Small",
+    "Width": 18,
+    "Height": 12.3,
+    "Image": "mono-small-pedalboard.png"
+  }
+]

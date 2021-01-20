@@ -1,0 +1,30 @@
+[
+  {
+    "Brand": "Rug",
+    "Name": "1",
+    "Width": 34,
+    "Height": 20,
+    "Image": "rug-plush.png"
+  },
+  {
+    "Brand": "Rug",
+    "Name": "2",
+    "Width": 34,
+    "Height": 20,
+    "Image": "rug-plush2.png"
+  },
+  {
+    "Brand": "Rug",
+    "Name": "3",
+    "Width": 34,
+    "Height": 20,
+    "Image": "rug-1.jpg"
+  },
+  {
+    "Brand": "Rug",
+    "Name": "4",
+    "Width": 34,
+    "Height": 20,
+    "Image": "rug-3.jpg"
+  }
+]
