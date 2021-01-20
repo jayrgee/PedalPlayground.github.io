@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Amptweaker",
+    "Name": "Tight Drive Jr.",
+    "Width": 2.94,
+    "Height": 5.29,
+    "Image": "amptweaker-tightdrive.png"
+  },
+  {
+    "Brand": "Amptweaker",
+    "Name": "Tight Metal Jr.",
+    "Width": 2.94,
+    "Height": 5.29,
+    "Image": "amptweaker-tightmetal.png"
+  },
+  {
+    "Brand": "Amptweaker",
+    "Name": "Tight Rock Jr.",
+    "Width": 2.94,
+    "Height": 5.29,
+    "Image": "amptweaker-tightrock.png"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Atomic",
+    "Name": "Ampli-Firebox",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "atomic-amplifirebox.png"
+  },
+  {
+    "Brand": "Atomic",
+    "Name": "Amplifire",
+    "Width": 8.5,
+    "Height": 6.5,
+    "Image": "atomic-amplifire.png"
+  },
+  {
+    "Brand": "Atomic",
+    "Name": "Amplifire 12",
+    "Width": 16.75,
+    "Height": 6.25,
+    "Image": "atomic-amplifire12.png"
+  }
+]

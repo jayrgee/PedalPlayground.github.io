@@ -1,0 +1,37 @@
+[
+  {
+    "Brand": "Stone Deaf",
+    "Name": "Fig Fumb",
+    "Width": 4.45,
+    "Height": 6.14,
+    "Image": "stonedeaf-figfumb.png"
+  },
+  {
+    "Brand": "Stone Deaf",
+    "Name": "PDF 2",
+    "Width": 3.54,
+    "Height": 5.9,
+    "Image": "stonedeaf-pdf.png"
+  },
+  {
+    "Brand": "Stone Deaf",
+    "Name": "Trashy Blonde",
+    "Width": 4.45,
+    "Height": 6.14,
+    "Image": "stonedeaf-trashyblonde.png"
+  },
+  {
+    "Brand": "Stone Deaf",
+    "Name": "Tremotron",
+    "Width": 3.3,
+    "Height": 5.2,
+    "Image": "stonedeaf-tremotron.png"
+  },
+  {
+    "Brand": "Stone Deaf",
+    "Name": "Warp Drive",
+    "Width": 4.45,
+    "Height": 6.14,
+    "Image": "stonedeaf-warpdrive.png"
+  }
+]

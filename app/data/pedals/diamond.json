@@ -1,0 +1,51 @@
+[
+  {
+    "Brand": "Diamond",
+    "Name": "Compressor",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "diamond-compressor.png"
+  },
+  {
+    "Brand": "Diamond",
+    "Name": "Compressor JR",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "diamond-compressorjr.png"
+  },
+  {
+    "Brand": "Diamond",
+    "Name": "Counterpoint",
+    "Width": 4.8,
+    "Height": 3.7,
+    "Image": "diamond-counterpoint.png"
+  },
+  {
+    "Brand": "Diamond",
+    "Name": "Halo Chorus",
+    "Width": 4.78,
+    "Height": 4.75,
+    "Image": "diamond-halo-chorus.png"
+  },
+  {
+    "Brand": "Diamond",
+    "Name": "Memory Lane Jr",
+    "Width": 4.8,
+    "Height": 3.7,
+    "Image": "diamond-memorylanejr.png"
+  },
+  {
+    "Brand": "Diamond",
+    "Name": "Tremolo",
+    "Width": 4.8,
+    "Height": 3.7,
+    "Image": "diamond-tremolo.png"
+  },
+  {
+    "Brand": "Diamond",
+    "Name": "Vibrato",
+    "Width": 4.75,
+    "Height": 4.7,
+    "Image": "diamond-vibrato.png"
+  }
+]

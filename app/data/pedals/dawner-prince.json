@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Dawner Prince",
+    "Name": "Boonar",
+    "Width": 4.7,
+    "Height": 2.38,
+    "Image": "dawnerprince-boonar.png"
+  },
+  {
+    "Brand": "Dawner Prince",
+    "Name": "Diktator Overdrive",
+    "Width": 4.4,
+    "Height": 3.5,
+    "Image": "dawner-prince-diktator-od.png"
+  },
+  {
+    "Brand": "Dawner Prince",
+    "Name": "Starla",
+    "Width": 4.7,
+    "Height": 2.38,
+    "Image": "dawnerprince-starla.png"
+  }
+]

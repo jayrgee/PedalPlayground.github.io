@@ -1,0 +1,30 @@
+[
+  {
+    "Brand": "Cooper",
+    "Name": "Arcades",
+    "Width": 3.7,
+    "Height": 4.85,
+    "Image": "cooper-arcades.png"
+  },
+  {
+    "Brand": "Cooper",
+    "Name": "Generation Loss",
+    "Width": 3.7,
+    "Height": 4.85,
+    "Image": "cooper-genloss.png"
+  },
+  {
+    "Brand": "Cooper",
+    "Name": "Moment Machine",
+    "Width": 5.7,
+    "Height": 4.84,
+    "Image": "cooper-momentmachine.png"
+  },
+  {
+    "Brand": "Cooper",
+    "Name": "Outward",
+    "Width": 3.7,
+    "Height": 4.85,
+    "Image": "cooper-outward.png"
+  }
+]

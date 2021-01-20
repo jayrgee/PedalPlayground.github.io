@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Tech21",
+    "Name": "Blonde",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "tech21-blonde.png"
+  },
+  {
+    "Brand": "Tech21",
+    "Name": "Leeds",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "tech21-leeds.png"
+  }
+]

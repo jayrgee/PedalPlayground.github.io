@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Singular Sound",
+    "Name": "Aeros",
+    "Width": 8.375,
+    "Height": 5.875,
+    "Image": "singularsound-aeros.png"
+  },
+  {
+    "Brand": "Singular Sound",
+    "Name": "BeatBuddy",
+    "Width": 3.58,
+    "Height": 4.92,
+    "Image": "singularsound-beatbuddy.png"
+  }
+]

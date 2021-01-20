@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Klon",
+    "Name": "Centaur",
+    "Width": 6.5,
+    "Height": 5,
+    "Image": "klon-centaur.png"
+  },
+  {
+    "Brand": "Klon",
+    "Name": "Centaur (Horsey)",
+    "Width": 6.5,
+    "Height": 5,
+    "Image": "klon-centaurhorsey.png"
+  },
+  {
+    "Brand": "Klon",
+    "Name": "KTR",
+    "Width": 3.625,
+    "Height": 4.7,
+    "Image": "klon-ktr.png"
+  }
+]

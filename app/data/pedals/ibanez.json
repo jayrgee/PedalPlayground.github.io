@@ -1,0 +1,107 @@
+[
+  {
+    "Brand": "Ibanez",
+    "Name": "850 Fuzz Mini",
+    "Width": 2,
+    "Height": 3.65,
+    "Image": "ibanez-850-mini-fuzz.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "AD-80 Analog Delay",
+    "Width": 2.9,
+    "Height": 4.89,
+    "Image": "ibanez-ad80.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "AD-9 Analog Delay",
+    "Width": 2.9,
+    "Height": 4.85,
+    "Image": "ibanez-ad9.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "CF7",
+    "Width": 3,
+    "Height": 5,
+    "Image": "ibanez-cf7.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "DE7",
+    "Width": 3,
+    "Height": 5,
+    "Image": "ibanez-de7.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "Echo Shifter",
+    "Width": 4.7,
+    "Height": 6.3,
+    "Image": "ibanez-echoshifter.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "FL-9 Flanger",
+    "Width": 2.9,
+    "Height": 4.85,
+    "Image": "ibanez-fl9.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "Mini Analog Delay",
+    "Width": 2,
+    "Height": 3.65,
+    "Image": "ibanez-analogdelaymini.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "Mini Chorus",
+    "Width": 2,
+    "Height": 3.65,
+    "Image": "ibanez-minichorus.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "Super Metal Mini",
+    "Width": 2,
+    "Height": 3.65,
+    "Image": "ibanez-supermetalmini.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "TS-10 Tube Screamer",
+    "Width": 2.875,
+    "Height": 4.95,
+    "Image": "ibanez-ts10.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "TS7",
+    "Width": 3,
+    "Height": 5,
+    "Image": "ibanez-ts7.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "TS808 Tubescreamer",
+    "Width": 2.9,
+    "Height": 4.89,
+    "Image": "ibanez-ts808.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "TS9 Tube Screamer",
+    "Width": 3,
+    "Height": 4.9,
+    "Image": "ibanez-ts9.png"
+  },
+  {
+    "Brand": "Ibanez",
+    "Name": "Tube Screamer Mini",
+    "Width": 2,
+    "Height": 3.65,
+    "Image": "ibanez-tubescreamermini.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Brand": "Dr Scientist",
+    "Name": "Bitquest",
+    "Width": 2.5,
+    "Height": 4.45,
+    "Image": "drscientist-bitquest.png"
+  },
+  {
+    "Brand": "Dr Scientist",
+    "Name": "Frazz Dazzler",
+    "Width": 2.5,
+    "Height": 4.45,
+    "Image": "drscientist-frazzdazzler.png"
+  },
+  {
+    "Brand": "Dr Scientist",
+    "Name": "Reverberator",
+    "Width": 2.5,
+    "Height": 4.45,
+    "Image": "drscientist-reverberator.png"
+  },
+  {
+    "Brand": "Dr Scientist",
+    "Name": "The Tremolessence",
+    "Width": 2.4,
+    "Height": 4.8,
+    "Image": "drscientist-thetremolessence.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "Thorpy",
+    "Name": "Fallout Cloud",
+    "Width": 2.75,
+    "Height": 5.7,
+    "Image": "thorpy-fallout-cloud.png"
+  },
+  {
+    "Brand": "Thorpy",
+    "Name": "Fallout Cloud V2",
+    "Width": 2.56,
+    "Height": 4.92,
+    "Image": "thorpyfx-fallout-cloud-v2.png"
+  },
+  {
+    "Brand": "Thorpy",
+    "Name": "Gunshot",
+    "Width": 2.75,
+    "Height": 5.7,
+    "Image": "thorpy-gunshot.png"
+  },
+  {
+    "Brand": "Thorpy",
+    "Name": "Peacekeeper",
+    "Width": 2.75,
+    "Height": 5.7,
+    "Image": "thorpy-peacekeeper.png"
+  },
+  {
+    "Brand": "Thorpy",
+    "Name": "The Dane",
+    "Width": 3.94,
+    "Height": 4.92,
+    "Image": "thorpyfx-thedane.png"
+  },
+  {
+    "Brand": "Thorpy",
+    "Name": "The Veteran",
+    "Width": 3.94,
+    "Height": 4.92,
+    "Image": "thorpyfx-theveteran.png"
+  }
+]

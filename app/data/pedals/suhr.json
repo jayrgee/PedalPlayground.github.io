@@ -1,0 +1,114 @@
+[
+  {
+    "Brand": "Suhr",
+    "Name": "ACE",
+    "Width": 4.88,
+    "Height": 3.88,
+    "Image": "suhr-ace.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Alexa",
+    "Width": 4.875,
+    "Height": 3.875,
+    "Image": "suhr-alexa.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Dual Boost",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-dualboost.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Eclipse",
+    "Width": 4.875,
+    "Height": 3.875,
+    "Image": "suhr-eclipse.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Jack Rabbit",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-jackrabbit.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Koji Comp",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-koji.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Koko Boost",
+    "Width": 4.875,
+    "Height": 3.875,
+    "Image": "suhr-kokoboost.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Koko Boost Reloaded",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-kokoboostreloaded.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Riot",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-riot.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Riot Mini",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "suhr-riot-mini.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Riot Reloaded",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-riotreloaded.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Rufus",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-rufus.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Rufus Reloaded",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-rufusreloaded.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Shiba Drive",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-shibadrive.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Shiba Drive Reloaded",
+    "Width": 2.5,
+    "Height": 4.5,
+    "Image": "suhr-shibadrivereloaded.png"
+  },
+  {
+    "Brand": "Suhr",
+    "Name": "Shiba Mini",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "suhr-shiba-mini.png"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Chorus",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3serieschorus.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Compressor",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3seriescomp.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Delay",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3seriesdelay.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Distortion",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3seriesdist.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Fuzz",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3seriesfuzz.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Overdrive",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3seriesoverdrive.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "3 Series Reverb",
+    "Width": 2.6,
+    "Height": 4.4,
+    "Image": "jhs-3seriesreverb.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "@ Andy Timmons",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-timmons.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Alpine",
+    "Width": 4.69,
+    "Height": 3.66,
+    "Image": "jhs-alpine.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Angry Charlie",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-angrycharlie.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Bonsai",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-bonsai.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Charlie Brown",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-charliebrown.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Clover",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-clover.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Colour Box",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "jhs-colourbox.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Colour Box V2",
+    "Width": 3.75,
+    "Height": 5.7,
+    "Image": "jhs-colourbox-v2.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Double Barrel",
+    "Width": 4.7,
+    "Height": 3.7,
+    "Image": "jhs-doublebarrel.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Double Barrel V4",
+    "Width": 4.5,
+    "Height": 3.8,
+    "Image": "jhs-doublebarrelv4.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Emperor",
+    "Width": 4.69,
+    "Height": 3.66,
+    "Image": "jhs-emperor.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Emperor V2",
+    "Width": 2.85,
+    "Height": 4.93,
+    "Image": "jhs-emperor-v2.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Haunting Mids",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-hauntingmids.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Kilt V1",
+    "Width": 3.86,
+    "Height": 4.7,
+    "Image": "jhs-kilt-v1.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Kilt V2",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-kilt2.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Kodiak",
+    "Width": 2.85,
+    "Height": 4.93,
+    "Image": "jhs-kodiak.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Lucky Cat",
+    "Width": 2.85,
+    "Height": 4.93,
+    "Image": "jhs-luckycat.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Lucky Cat (Pink)",
+    "Width": 2.85,
+    "Height": 4.93,
+    "Image": "jhs-luckycat-pink.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Milkman",
+    "Width": 4.8,
+    "Height": 2.64,
+    "Image": "jhs-milkman.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Moonshine",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-moonshine.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Morning Glory",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-morningglory.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Muffaletta",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-muffaletta.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "PG-14 Paul Gilbert Signature Distortion",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "jhs-pg14.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Panther Cub",
+    "Width": 4.69,
+    "Height": 3.66,
+    "Image": "jhs-panthercub.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Panther Cub V2",
+    "Width": 2.7,
+    "Height": 4.93,
+    "Image": "jhs-panther-cup-2.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Pink Panther",
+    "Width": 2.85,
+    "Height": 4.93,
+    "Image": "jhs-pinkpanther.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Prestige",
+    "Width": 1.79,
+    "Height": 3.6,
+    "Image": "jhs-prestige.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Pulp N Peel",
+    "Width": 2.72,
+    "Height": 4.87,
+    "Image": "jhs-pulpnpeel.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Red Remote",
+    "Width": 2,
+    "Height": 2.24,
+    "Image": "jhs-red-remote.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Ruby Red",
+    "Width": 3.86,
+    "Height": 4.7,
+    "Image": "jhs-rr.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Smiley Fuzz",
+    "Width": 3.603,
+    "Height": 5.68,
+    "Image": "jhs-smiley.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Spring Tank",
+    "Width": 2.85,
+    "Height": 4.93,
+    "Image": "jhs-springtank.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Superbolt",
+    "Width": 2.72,
+    "Height": 4.87,
+    "Image": "jhs-superbolt.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Sweet Tea",
+    "Width": 4.7,
+    "Height": 3.7,
+    "Image": "jhs-sweettea.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Tidewater Tremolo",
+    "Width": 1.75,
+    "Height": 3.75,
+    "Image": "jhs-tidewater.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Unicorn",
+    "Width": 4.69,
+    "Height": 3.66,
+    "Image": "jhs-unicorn.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "VCR",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "jhs-vcr.png"
+  },
+  {
+    "Brand": "JHS",
+    "Name": "Whitey Tighty Compressor",
+    "Width": 1.75,
+    "Height": 3.75,
+    "Image": "jhs-whiteytighty.png"
+  }
+]

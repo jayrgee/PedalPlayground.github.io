@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Hologram Electronics",
+    "Name": "Dream Sequence",
+    "Width": 7.37,
+    "Height": 4.69,
+    "Image": "hologram-dreamsequence.png"
+  },
+  {
+    "Brand": "Hologram Electronics",
+    "Name": "Infinite Jets",
+    "Width": 7.37,
+    "Height": 4.69,
+    "Image": "hologram-infinitejets.png"
+  },
+  {
+    "Brand": "Hologram Electronics",
+    "Name": "Microcosm",
+    "Width": 7.1,
+    "Height": 4.7,
+    "Image": "hologram-microcosm.png"
+  }
+]

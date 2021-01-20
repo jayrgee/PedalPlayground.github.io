@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Morley",
+    "Name": "20/20 Lead Wah",
+    "Width": 4.5,
+    "Height": 6.85,
+    "Image": "morley-2020leadwah.png"
+  },
+  {
+    "Brand": "Morley",
+    "Name": "Bad Horsie",
+    "Width": 6,
+    "Height": 9.25,
+    "Image": "morley-wah.png"
+  },
+  {
+    "Brand": "Morley",
+    "Name": "Mini Wah",
+    "Width": 4.5,
+    "Height": 6.75,
+    "Image": "morley-miniwah.png"
+  }
+]

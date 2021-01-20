@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Effectrode",
+    "Name": "Blackbird",
+    "Width": 7.5,
+    "Height": 5,
+    "Image": "effectrode-blackbird.png"
+  },
+  {
+    "Brand": "Effectrode",
+    "Name": "Tube Drive",
+    "Width": 6.8,
+    "Height": 4.52,
+    "Image": "effectrode-tubedrive.png"
+  },
+  {
+    "Brand": "Effectrode",
+    "Name": "Tube Vibe",
+    "Width": 7.5,
+    "Height": 5.1,
+    "Image": "effectrode-tubevibe.png"
+  }
+]

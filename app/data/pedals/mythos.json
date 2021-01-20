@@ -1,0 +1,58 @@
+[
+  {
+    "Brand": "Mythos",
+    "Name": "Argo",
+    "Width": 2.62,
+    "Height": 4.93,
+    "Image": "mythos-argo.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "Chupacabra",
+    "Width": 2.62,
+    "Height": 4.93,
+    "Image": "mythos-chupacabra.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "Golden Fleece",
+    "Width": 1.79,
+    "Height": 3.6,
+    "Image": "mythos-goldenfleecemini.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "Mjolnir",
+    "Width": 2.62,
+    "Height": 4.93,
+    "Image": "mythos-mjolner.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "Mjolnir Joey Landreth Edition",
+    "Width": 2.62,
+    "Height": 4.93,
+    "Image": "mythos-mjolnirjl.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "Runestone",
+    "Width": 2.62,
+    "Height": 4.93,
+    "Image": "mythos-runestone.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "SusMaryOsep",
+    "Width": 4.69,
+    "Height": 3.66,
+    "Image": "mythos-susmaryosep.png"
+  },
+  {
+    "Brand": "Mythos",
+    "Name": "Wildwood Edition Mjolnir",
+    "Width": 4.67,
+    "Height": 3.7,
+    "Image": "mythos-mjolner-wildwood.png"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Ernie Ball",
+    "Name": "Tap Tempo",
+    "Width": 1.6,
+    "Height": 3.68,
+    "Image": "ernieball-tap.png"
+  },
+  {
+    "Brand": "Ernie Ball",
+    "Name": "VP Jr",
+    "Width": 3.5,
+    "Height": 10,
+    "Image": "ernieball-vp.png"
+  },
+  {
+    "Brand": "Ernie Ball",
+    "Name": "VP Jr Tuner",
+    "Width": 3.5,
+    "Height": 10,
+    "Image": "ernieball-vpjrtuner.png"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Brand": "Mad Professor",
+    "Name": "1 Overdrive",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-1od.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Amber Overdrive",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-amber.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Deep Blue Delay",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-deepbluedelay.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Forrest Green Compressor",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-forrestgreencomp.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Little Green Wonder",
+    "Width": 2.5,
+    "Height": 4.4,
+    "Image": "madprof-littlegreenwonder.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Royal Blue Overdrive",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-royalblue.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Silver Spring Reverb",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-silverspring.png"
+  },
+  {
+    "Brand": "Mad Professor",
+    "Name": "Sweet Honey Overdrive",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "madprof-sweethoney.png"
+  }
+]

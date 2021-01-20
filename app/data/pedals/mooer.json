@@ -1,0 +1,121 @@
+[
+  {
+    "Brand": "Mooer",
+    "Name": "Acoustikar",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-acousticer.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Ana Echo",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-anaecho.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Black Secret",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-blacksecret.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Blues Mood",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-bluesmood.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "E-lady",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-elady.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Graphic Eq",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-eq.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Green Mile",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-greenmile.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Ninety Orange",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-orange.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Ocean Machine",
+    "Width": 8.47,
+    "Height": 4.8,
+    "Image": "mooer-oceanmachine.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Pitch Box",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-pitchbox.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Pure Boost",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-pureboost.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Radar",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-radar.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Reecho",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-recho.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Tender Octaver",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-tenderoctaver.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Trelicopter",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-trelicopter.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Tuner",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-tuner.png"
+  },
+  {
+    "Brand": "Mooer",
+    "Name": "Yellow Comp",
+    "Width": 1.65,
+    "Height": 3.7,
+    "Image": "mooer-yellowcomp.png"
+  }
+]

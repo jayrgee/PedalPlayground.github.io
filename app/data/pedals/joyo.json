@@ -1,0 +1,58 @@
+[
+  {
+    "Brand": "Joyo",
+    "Name": "American Sound",
+    "Width": 3.42,
+    "Height": 4.645669,
+    "Image": "joyo-americansound.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "Gate of Kahn",
+    "Width": 1.72,
+    "Height": 2.83,
+    "Image": "joyo-gate-of-kahn.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "Irontune",
+    "Width": 1.5,
+    "Height": 2.9,
+    "Image": "joyo-irontune.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "PXL-4",
+    "Width": 11.14,
+    "Height": 3.22835,
+    "Image": "joyo-pxl4.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "Pipe Bomb",
+    "Width": 1.72,
+    "Height": 2.83,
+    "Image": "joyo-pipe-bomb.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "Space Verb",
+    "Width": 1.72,
+    "Height": 2.83,
+    "Image": "joyo-space-verb.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "Vintage Overdrive",
+    "Width": 2,
+    "Height": 4,
+    "Image": "joyo-vintage-overdrive.png"
+  },
+  {
+    "Brand": "Joyo",
+    "Name": "Wooden Sound",
+    "Width": 1.72,
+    "Height": 2.83,
+    "Image": "joyo-woodensound.png"
+  }
+]

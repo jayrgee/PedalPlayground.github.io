@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "Hotone",
+    "Name": "Binary Amp",
+    "Width": 4.76378,
+    "Height": 2.83465,
+    "Image": "hotone-binary-amp.png"
+  },
+  {
+    "Brand": "Hotone",
+    "Name": "Binary IR Cab",
+    "Width": 4.76378,
+    "Height": 2.83465,
+    "Image": "hotone-binary-ir-cab.png"
+  },
+  {
+    "Brand": "Hotone",
+    "Name": "Binary Mod",
+    "Width": 4.76378,
+    "Height": 2.83465,
+    "Image": "hotone-binarymod.png"
+  },
+  {
+    "Brand": "Hotone",
+    "Name": "Soul Press",
+    "Width": 2.46,
+    "Height": 5.43,
+    "Image": "hotone-soulpress.png"
+  },
+  {
+    "Brand": "Hotone",
+    "Name": "Wally+ Looper",
+    "Width": 1.73,
+    "Height": 2.91,
+    "Image": "hotone_wally_plus.png"
+  },
+  {
+    "Brand": "Hotone",
+    "Name": "Xtomp Mini",
+    "Width": 2.48,
+    "Height": 4.45,
+    "Image": "hotone-xtomp-mini.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "AMT",
+    "Name": "E-1",
+    "Width": 2.9,
+    "Height": 4.3,
+    "Image": "amt-e1.png"
+  },
+  {
+    "Brand": "AMT",
+    "Name": "EX-50 Mini Expression",
+    "Width": 2.611,
+    "Height": 4.33,
+    "Image": "amt-expression.png"
+  },
+  {
+    "Brand": "AMT",
+    "Name": "F-Clean",
+    "Width": 2.17,
+    "Height": 3.74,
+    "Image": "amt-f-clean.png"
+  },
+  {
+    "Brand": "AMT",
+    "Name": "GR-4",
+    "Width": 10.3,
+    "Height": 4.6,
+    "Image": "amt-gr4.png"
+  },
+  {
+    "Brand": "AMT",
+    "Name": "Little Loudmouth",
+    "Width": 2.736,
+    "Height": 4.33,
+    "Image": "amt-littleloudmouth.png"
+  },
+  {
+    "Brand": "AMT",
+    "Name": "M-1",
+    "Width": 2.9,
+    "Height": 4.3,
+    "Image": "amt-m1.png"
+  }
+]

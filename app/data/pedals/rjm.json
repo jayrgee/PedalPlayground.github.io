@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "RJM",
+    "Name": "Mastermind GT/10",
+    "Width": 19.4,
+    "Height": 8.1,
+    "Image": "rjm-gt10.png"
+  },
+  {
+    "Brand": "RJM",
+    "Name": "Mastermind GT/16",
+    "Width": 19.4,
+    "Height": 11.1,
+    "Image": "rjm-gt16.png"
+  },
+  {
+    "Brand": "RJM",
+    "Name": "Mastermind GT/22",
+    "Width": 19.4,
+    "Height": 14.1,
+    "Image": "rjm-gt22.png"
+  },
+  {
+    "Brand": "RJM",
+    "Name": "Mastermind LT",
+    "Width": 11.5,
+    "Height": 5,
+    "Image": "rjm-pbclt.png"
+  },
+  {
+    "Brand": "RJM",
+    "Name": "Mastermind PBC/10",
+    "Width": 17.5,
+    "Height": 5.5,
+    "Image": "rjm-mastermindpbc.png"
+  },
+  {
+    "Brand": "RJM",
+    "Name": "Mastermind PBC/6X",
+    "Width": 10.1,
+    "Height": 4.4,
+    "Image": "rjm-pbc6x.png"
+  }
+]

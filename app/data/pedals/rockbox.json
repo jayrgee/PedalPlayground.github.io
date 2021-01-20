@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Rockbox",
+    "Name": "Baby Blues",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "rockbox-babyblues.png"
+  },
+  {
+    "Brand": "Rockbox",
+    "Name": "Boiling Point",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "rockbox-boilingpoint.png"
+  },
+  {
+    "Brand": "Rockbox",
+    "Name": "Super 763",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "rockbox-super763.png"
+  }
+]

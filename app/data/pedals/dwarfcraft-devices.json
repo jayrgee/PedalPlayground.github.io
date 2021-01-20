@@ -1,0 +1,86 @@
+[
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "ARF",
+    "Width": 5.8,
+    "Height": 4.8,
+    "Image": "dwarfcraft-arf.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Baby Thunder",
+    "Width": 3,
+    "Height": 4.8,
+    "Image": "dwarfcraft-babythunder.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Eau Claire Thunder",
+    "Width": 5.7,
+    "Height": 4.8,
+    "Image": "dwarfcraft-eauclairethunder.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Happiness",
+    "Width": 3.8,
+    "Height": 4.9,
+    "Image": "dwarfcraft-happiness.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Minivan",
+    "Width": 2.8,
+    "Height": 4.8,
+    "Image": "dwarfcraft-minivan.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Necromancer",
+    "Width": 4,
+    "Height": 4.8,
+    "Image": "dwarfcraft-necromancer.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Pitchgrinder",
+    "Width": 7.4,
+    "Height": 4.8,
+    "Image": "dwarfcraft-pitchgrinder.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Shefuzz",
+    "Width": 3,
+    "Height": 4.8,
+    "Image": "dwarfcraft-shefuzz.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Super Wizard",
+    "Width": 5.7,
+    "Height": 4.8,
+    "Image": "dwarfcraft-superwizard.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "The Great Destroyer",
+    "Width": 3,
+    "Height": 4.8,
+    "Image": "dwarfcraft-thegreatdestroyer.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Twin Stags",
+    "Width": 3.95,
+    "Height": 4.9,
+    "Image": "dwarfcraft-twinstags.png"
+  },
+  {
+    "Brand": "Dwarfcraft Devices",
+    "Name": "Wizard of Pitch",
+    "Width": 3,
+    "Height": 4.8,
+    "Image": "dwarfcraft-wizardofpitch.png"
+  }
+]

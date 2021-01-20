@@ -1,0 +1,268 @@
+[
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "22500 Dual Stereo Looper",
+    "Width": 5.75,
+    "Height": 4.75,
+    "Image": "ehx-22500.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "720 Stereo Looper",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-720.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Attach Decay",
+    "Width": 4.1,
+    "Height": 4.7,
+    "Image": "ehx-attackdecay.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Bass Mono Synth",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-monosynth.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Big Muff Pi",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-bigmuffpi.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Big Muff Pi (big box)",
+    "Width": 5.5,
+    "Height": 6.8,
+    "Image": "ehx-bigmuffbox.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Blurst",
+    "Width": 3.97,
+    "Height": 4.55,
+    "Image": "ehx-blurst.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "C9 Organ Machine",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-c9.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Canyon",
+    "Width": 2.7,
+    "Height": 4.3,
+    "Image": "ehx-canyon.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Deluxe Electric Mistress",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-mistress.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Deluxe Memory Man (big box)",
+    "Width": 7.875,
+    "Height": 6.875,
+    "Image": "ehx-ogmemoryman.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Deluxe Memory Man Tap Tempo",
+    "Width": 5.75,
+    "Height": 4.75,
+    "Image": "ehx-memorymantap.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Deluxe Memory Man XO",
+    "Width": 5.75,
+    "Height": 4.75,
+    "Image": "ehx-memorymannano.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Dual Expression Pedal",
+    "Width": 3.5,
+    "Height": 10,
+    "Image": "ehx-dual-expression-pedal.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Flat Iron Fuzz",
+    "Width": 2.64,
+    "Height": 4.4,
+    "Image": "ehx-flatiron.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Freeze",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "ehx-freeze.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Grand Canyon",
+    "Width": 4.75,
+    "Height": 4,
+    "Image": "ehx-grand-canyon.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Green Russian Big Muff Pi",
+    "Width": 2.75,
+    "Height": 4.5,
+    "Image": "ehx-greenrussian.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Headphone Amp",
+    "Width": 1.41,
+    "Height": 3.62,
+    "Image": "ehx-headphone-amp.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Mel9 Tape Replay Machine",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-mel9.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Memory Boy",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-memoryboy.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Memory Toy",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "ehx-memorytoy.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Micro POG",
+    "Width": 3.86,
+    "Height": 4.6,
+    "Image": "ehx-micropog.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Mono Synth",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-bassmonosynth.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Nano Big Muff Pi",
+    "Width": 2.75,
+    "Height": 4.5,
+    "Image": "ehx-nanobigmuff.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Nano Pog",
+    "Width": 2.75,
+    "Height": 4.4,
+    "Image": "ehx-nanopog.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Ocean 11",
+    "Width": 2.75,
+    "Height": 4.5,
+    "Image": "ehx-ocean11.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Op-amp Big Muff Pi",
+    "Width": 2.75,
+    "Height": 4.5,
+    "Image": "ehx-opamp.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "POG2",
+    "Width": 5.75,
+    "Height": 4.75,
+    "Image": "ehx-pog2.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Pitch Fork",
+    "Width": 2.75,
+    "Height": 4.5,
+    "Image": "ehx-pitchfork.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Silencer",
+    "Width": 2.5,
+    "Height": 4.4,
+    "Image": "ehx-silencer.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Small Stone Nano",
+    "Width": 2.65,
+    "Height": 4.4,
+    "Image": "ehx-nanosmallstone.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Soul Food",
+    "Width": 2.75,
+    "Height": 4.5,
+    "Image": "ehx-soulfood.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Stereo Electric Mistress",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-stereomistress.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Super Ego",
+    "Width": 3.82,
+    "Height": 4.6,
+    "Image": "ehx-superego.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Super Ego +",
+    "Width": 5.75,
+    "Height": 4.75,
+    "Image": "ehx-superego-plus.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Synth9 Synth Machine",
+    "Width": 3.95,
+    "Height": 4.7,
+    "Image": "ehx-synth9.png"
+  },
+  {
+    "Brand": "Electro Harmonix",
+    "Name": "Tri Parallel Mixer",
+    "Width": 5.9,
+    "Height": 4.85,
+    "Image": "ehx-tpm.png"
+  }
+]

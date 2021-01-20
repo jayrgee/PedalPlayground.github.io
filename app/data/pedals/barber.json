@@ -1,0 +1,51 @@
+[
+  {
+    "Brand": "Barber",
+    "Name": "1/2 Gainer",
+    "Width": 3.7,
+    "Height": 5.7,
+    "Image": "barber-halfgainer.png"
+  },
+  {
+    "Brand": "Barber",
+    "Name": "Burn Unit",
+    "Width": 3.7,
+    "Height": 5.7,
+    "Image": "barber-burnunit.png"
+  },
+  {
+    "Brand": "Barber",
+    "Name": "Direct Drive",
+    "Width": 2.75,
+    "Height": 4.4375,
+    "Image": "barber-directdrive.png"
+  },
+  {
+    "Brand": "Barber",
+    "Name": "Gain Changer",
+    "Width": 2.75,
+    "Height": 4.4375,
+    "Image": "barber-gainchanger.png"
+  },
+  {
+    "Brand": "Barber",
+    "Name": "LTD",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "barber-ltd.png"
+  },
+  {
+    "Brand": "Barber",
+    "Name": "Tone Press",
+    "Width": 2.75,
+    "Height": 4.4375,
+    "Image": "barber-tonepresssm.png"
+  },
+  {
+    "Brand": "Barber",
+    "Name": "Tone Press (old)",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "barber-tonepress.png"
+  }
+]

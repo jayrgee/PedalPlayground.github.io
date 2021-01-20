@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Ramble FX",
+    "Name": "Kismet",
+    "Width": 3.69,
+    "Height": 4.81,
+    "Image": "ramble-kismet.png"
+  },
+  {
+    "Brand": "Ramble FX",
+    "Name": "Marvel Drive",
+    "Width": 2.61,
+    "Height": 4.92,
+    "Image": "ramble-marvel.png"
+  },
+  {
+    "Brand": "Ramble FX",
+    "Name": "Twin Bender",
+    "Width": 2.61,
+    "Height": 4.92,
+    "Image": "ramble-twinbender.png"
+  }
+]

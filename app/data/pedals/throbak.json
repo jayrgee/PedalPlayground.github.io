@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Throbak",
+    "Name": "Fuzz Haze",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "throbak-fuzzhaze.png"
+  },
+  {
+    "Brand": "Throbak",
+    "Name": "sTonebender",
+    "Width": 2.8,
+    "Height": 4.3,
+    "Image": "throbak-stonebender.png"
+  }
+]

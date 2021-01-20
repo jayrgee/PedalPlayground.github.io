@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "Red Panda",
+    "Name": "Bitmap",
+    "Width": 3.3,
+    "Height": 4.4,
+    "Image": "redpanda-bitmap.png"
+  },
+  {
+    "Brand": "Red Panda",
+    "Name": "Context",
+    "Width": 3.7,
+    "Height": 4.7,
+    "Image": "redpanda-context.png"
+  },
+  {
+    "Brand": "Red Panda",
+    "Name": "Particle",
+    "Width": 3.3,
+    "Height": 4.4,
+    "Image": "redpanda-particle.png"
+  },
+  {
+    "Brand": "Red Panda",
+    "Name": "Particle V2",
+    "Width": 3.05,
+    "Height": 4.75,
+    "Image": "redpanda-particle2.png"
+  },
+  {
+    "Brand": "Red Panda",
+    "Name": "Raster",
+    "Width": 3.3,
+    "Height": 4.4,
+    "Image": "redpanda-raster.png"
+  },
+  {
+    "Brand": "Red Panda",
+    "Name": "Tensor",
+    "Width": 3.05,
+    "Height": 4.75,
+    "Image": "redpanda-tensor.png"
+  }
+]

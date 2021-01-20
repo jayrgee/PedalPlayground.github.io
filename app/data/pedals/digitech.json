@@ -1,0 +1,198 @@
+[
+  {
+    "Brand": "DigiTech",
+    "Name": "Boneshaker",
+    "Width": 2.63,
+    "Height": 4.68,
+    "Image": "digitech-boneshaker.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "CR-7 Stereo Chorus",
+    "Width": 3.5,
+    "Height": 5.25,
+    "Image": "digitech-cr7.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "DL-8 Delay/Looper",
+    "Width": 3.5,
+    "Height": 5.25,
+    "Image": "digitech-dl8.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "DOD 250",
+    "Width": 2.875,
+    "Height": 4.625,
+    "Image": "digitech-250.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "DOD Carcosa",
+    "Width": 2.875,
+    "Height": 4.625,
+    "Image": "digitech-carcosa.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "DOD Mini Expression",
+    "Width": 3,
+    "Height": 5,
+    "Image": "dod-miniexpression.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "DOD Rubberneck",
+    "Width": 5,
+    "Height": 4.68,
+    "Image": "dod-rubberneck.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Digidelay",
+    "Width": 3,
+    "Height": 4.865,
+    "Image": "digitech-digidelay.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "FreqOut",
+    "Width": 2.875,
+    "Height": 4.75,
+    "Image": "digitech-freqout.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "HT-2 Chromatic Tuner",
+    "Width": 3.5,
+    "Height": 5.25,
+    "Image": "digitech-hardwire-ht-2-chromatic-tuner.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Jamman Express",
+    "Width": 2.75,
+    "Height": 4.75,
+    "Image": "digitech-jammanexpress.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Jamman Solo XT",
+    "Width": 3,
+    "Height": 4.865,
+    "Image": "digitech-jammansolo.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Looking Glass",
+    "Width": 2.63,
+    "Height": 4.68,
+    "Image": "digitech-lookingglass.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Luxe",
+    "Width": 2.875,
+    "Height": 4.75,
+    "Image": "digitech-luxe.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Nautila",
+    "Width": 2.65,
+    "Height": 4.4,
+    "Image": "digitech-nautila.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Obscura",
+    "Width": 2.65,
+    "Height": 4.4,
+    "Image": "digitech-obscura.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Polara",
+    "Width": 2.65,
+    "Height": 4.4,
+    "Image": "digitech-polara.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "RV-7 Reverb",
+    "Width": 3.5,
+    "Height": 5.25,
+    "Image": "digitech-rv7.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Ricochet",
+    "Width": 2.875,
+    "Height": 4.75,
+    "Image": "digitech-ricochet.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "SDRUM",
+    "Width": 3.29,
+    "Height": 5.4,
+    "Image": "digitech-sdrum.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Supernatural",
+    "Width": 3.5,
+    "Height": 5.25,
+    "Image": "digitech-supernatural.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "The Drop",
+    "Width": 2.875,
+    "Height": 4.75,
+    "Image": "digitech-drop.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "The Mosaic",
+    "Width": 2.875,
+    "Height": 4.75,
+    "Image": "digitech-mosaic.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Trio Looper",
+    "Width": 3.25,
+    "Height": 5.4,
+    "Image": "digitech-trio.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Trio+ Looper",
+    "Width": 4.25,
+    "Height": 5.4,
+    "Image": "digitech-trioplus.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Ventura Vibe",
+    "Width": 2.65,
+    "Height": 4.4,
+    "Image": "digitech-ventura.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Whammy 5",
+    "Width": 6.5,
+    "Height": 7.75,
+    "Image": "digitech-whammy.png"
+  },
+  {
+    "Brand": "DigiTech",
+    "Name": "Whammy 5",
+    "Width": 6.5,
+    "Height": 7.75,
+    "Image": "digitech-whammy.png"
+  }
+]

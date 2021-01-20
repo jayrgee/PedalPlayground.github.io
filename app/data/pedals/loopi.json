@@ -1,0 +1,65 @@
+[
+  {
+    "Brand": "Loopi",
+    "Name": "2:2",
+    "Width": 3.54,
+    "Height": 1.848,
+    "Image": "loopi-22.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Dual Latching Footswitch with LEDs",
+    "Width": 4.39,
+    "Height": 2.546,
+    "Image": "loopi-dual-latching.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Micro Expression Knob",
+    "Width": 2,
+    "Height": 2.231,
+    "Image": "loopi-micro-expression.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Micro Tap",
+    "Width": 2,
+    "Height": 2.196,
+    "Image": "loopi-micro-tap.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Mini Dual Expression",
+    "Width": 3.8,
+    "Height": 1.6,
+    "Image": "loopi-mini-dual-expression.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Mini Dual Latching Footswitch",
+    "Width": 3.68,
+    "Height": 1.6,
+    "Image": "loopi-dualfootswitch.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Mini Expression Knob",
+    "Width": 1.52,
+    "Height": 3.899,
+    "Image": "loopi-mini-expression.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Mini Latching Footswitch with LED",
+    "Width": 1.52,
+    "Height": 3.889,
+    "Image": "loopi-aux.png"
+  },
+  {
+    "Brand": "Loopi",
+    "Name": "Strymon Aux Switcher Footswitch",
+    "Width": 4.39,
+    "Height": 2.546,
+    "Image": "loopi-aux3.png"
+  }
+]

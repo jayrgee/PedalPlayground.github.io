@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Kingtone",
+    "Name": "Duellist",
+    "Width": 4.67,
+    "Height": 3.68,
+    "Image": "kingtone-duelist.png"
+  },
+  {
+    "Brand": "Kingtone",
+    "Name": "Mini Fuzz",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "Toneking-minifuzz.png"
+  }
+]

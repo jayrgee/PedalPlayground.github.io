@@ -1,0 +1,30 @@
+[
+  {
+    "Brand": "Supro",
+    "Name": " Tremolo",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "supro-tremolo.png"
+  },
+  {
+    "Brand": "Supro",
+    "Name": "Boost",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "supro-boost.png"
+  },
+  {
+    "Brand": "Supro",
+    "Name": "Drive",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "supro-drive.png"
+  },
+  {
+    "Brand": "Supro",
+    "Name": "Fuzz",
+    "Width": 2.6,
+    "Height": 4.8,
+    "Image": "supro-fuzz.png"
+  }
+]

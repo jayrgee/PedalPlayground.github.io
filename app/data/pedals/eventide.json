@@ -1,0 +1,37 @@
+[
+  {
+    "Brand": "Eventide",
+    "Name": "Blackhole",
+    "Width": 4,
+    "Height": 4.25,
+    "Image": "eventide-blackhole.png"
+  },
+  {
+    "Brand": "Eventide",
+    "Name": "H9",
+    "Width": 4.65,
+    "Height": 5.25,
+    "Image": "eventide-h9.png"
+  },
+  {
+    "Brand": "Eventide",
+    "Name": "Mixing Link",
+    "Width": 3.63,
+    "Height": 4.57,
+    "Image": "eventide-mixinglink.png"
+  },
+  {
+    "Brand": "Eventide",
+    "Name": "Space",
+    "Width": 7.5,
+    "Height": 4.8,
+    "Image": "eventide-space.png"
+  },
+  {
+    "Brand": "Eventide",
+    "Name": "TimeFactor",
+    "Width": 7.5,
+    "Height": 4.8,
+    "Image": "eventide-timefactor.png"
+  }
+]

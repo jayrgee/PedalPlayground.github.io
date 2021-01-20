@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "Truetone",
+    "Name": "1 Spot Pro CS12",
+    "Width": 8.12,
+    "Height": 3.37,
+    "Image": "truetone-cs12.png"
+  },
+  {
+    "Brand": "Truetone",
+    "Name": "1 Spot Pro CS7",
+    "Width": 5.5,
+    "Height": 3.37,
+    "Image": "truetone-cs7.png"
+  },
+  {
+    "Brand": "Truetone",
+    "Name": "Jekyll & Hyde V3",
+    "Width": 6,
+    "Height": 5,
+    "Image": "truetone-jekyll.png"
+  },
+  {
+    "Brand": "Truetone",
+    "Name": "V3 H2O",
+    "Width": 6,
+    "Height": 5,
+    "Image": "truetone-h2o.png"
+  },
+  {
+    "Brand": "Truetone",
+    "Name": "V3 Route 66",
+    "Width": 6,
+    "Height": 5,
+    "Image": "truetone-route66.png"
+  },
+  {
+    "Brand": "Truetone",
+    "Name": "VS-XO",
+    "Width": 6,
+    "Height": 5,
+    "Image": "truetone-vsxo.png"
+  }
+]

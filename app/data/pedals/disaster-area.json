@@ -1,0 +1,93 @@
+[
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC Micro",
+    "Width": 3.65,
+    "Height": 1.65,
+    "Image": "disasterarea-dmc-micro.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC-2",
+    "Width": 3.6,
+    "Height": 1.5,
+    "Image": "disasterarea-dmc2.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC-3XL",
+    "Width": 4.8,
+    "Height": 2.75,
+    "Image": "disasterarea-dmc3xl.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC-4",
+    "Width": 4.7,
+    "Height": 3.7,
+    "Image": "disasterarea-dmc4.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC-4 Gen3",
+    "Width": 4.7,
+    "Height": 3.7,
+    "Image": "disasterarea-dmc4g3.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC-6",
+    "Width": 7.4,
+    "Height": 4.7,
+    "Image": "disasterarea-dmc6.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DMC-8",
+    "Width": 10,
+    "Height": 2.65,
+    "Image": "disasterarea-dmc8.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DPC-8EZ gen3",
+    "Width": 10,
+    "Height": 2.88,
+    "Image": "disasterarea-dpc8ezgen3.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "DPC5",
+    "Width": 10,
+    "Height": 2.65,
+    "Image": "disasterarea-dpc5.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "Micro Clock",
+    "Width": 1.65,
+    "Height": 3.65,
+    "Image": "disasterarea-microclock.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "NNB",
+    "Width": 1.65,
+    "Height": 3.65,
+    "Image": "disaster-area-nnb.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "Smart Clock",
+    "Width": 2.85,
+    "Height": 4.87,
+    "Image": "disasterarea-smartclock.png"
+  },
+  {
+    "Brand": "Disaster Area",
+    "Name": "qConnect",
+    "Width": 4.8,
+    "Height": 2.6,
+    "Image": "disasterarea-qconnect.png"
+  }
+]

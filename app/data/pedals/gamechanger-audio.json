@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Gamechanger Audio",
+    "Name": "Plus",
+    "Width": 3.55,
+    "Height": 7.7,
+    "Image": "gamechanger-audio-plus-sustain.png"
+  },
+  {
+    "Brand": "Gamechanger Audio",
+    "Name": "Wet",
+    "Width": 2.3,
+    "Height": 2.6,
+    "Image": "gamechanger-audio-wet.png"
+  }
+]

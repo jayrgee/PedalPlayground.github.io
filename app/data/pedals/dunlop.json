@@ -1,0 +1,86 @@
+[
+  {
+    "Brand": "Dunlop",
+    "Name": "Crybaby",
+    "Width": 4,
+    "Height": 10,
+    "Image": "dunlop-wah.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Crybaby Mini",
+    "Width": 3,
+    "Height": 5.25,
+    "Image": "dunlop-crybabymini.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "DVP3 Volume",
+    "Width": 3.858,
+    "Height": 10,
+    "Image": "dunlop-dvp3.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "DVP4 Mini Volume",
+    "Width": 2.97,
+    "Height": 6,
+    "Image": "dunlop-dvp4.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Echoplex",
+    "Width": 2.77,
+    "Height": 4.5,
+    "Image": "dunlop-echoplex.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Eric Johnson Fuzz Face",
+    "Width": 7,
+    "Height": 7,
+    "Image": "dunlop-fuzzface-eric-johnson.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Fuzz Face Classic Germanium",
+    "Width": 7,
+    "Height": 7,
+    "Image": "dunlop-fuzzface-germanium.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Fuzz Face Germanium Mini",
+    "Width": 3.5,
+    "Height": 3.5,
+    "Image": "dunlop-fuzzface-germanium-mini.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Jimi Hendrix Fuzz Face",
+    "Width": 7,
+    "Height": 7,
+    "Image": "dunlop-fuzzface-jimi-hendrix.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Jimi Hendrix Fuzz Face Mini",
+    "Width": 3.5,
+    "Height": 3.5,
+    "Image": "dunlop-fuzzface-jimi-hendrix-mini.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Jimi Hendrix Octavio Fuzz",
+    "Width": 2.4,
+    "Height": 4.3,
+    "Image": "dunlop-jimi-hendrix-octavio-fuzz.png"
+  },
+  {
+    "Brand": "Dunlop",
+    "Name": "Silicon Fuzz Face Mini",
+    "Width": 3.5,
+    "Height": 3.5,
+    "Image": "dunlop-fuzzface-silicon-mini.png"
+  }
+]

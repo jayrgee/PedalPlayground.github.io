@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "Radial Engineering",
+    "Name": "J48",
+    "Width": 3.3,
+    "Height": 5,
+    "Image": "radial-j48.png"
+  },
+  {
+    "Brand": "Radial Engineering",
+    "Name": "JDI",
+    "Width": 3.3,
+    "Height": 5,
+    "Image": "radial-jdi.png"
+  },
+  {
+    "Brand": "Radial Engineering",
+    "Name": "Key Largo",
+    "Width": 8.4,
+    "Height": 5,
+    "Image": "radial-key-largo.png"
+  }
+]

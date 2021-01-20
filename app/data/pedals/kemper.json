@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Kemper",
+    "Name": "Profiler Stage",
+    "Width": 18.5,
+    "Height": 10.24,
+    "Image": "kemper-stage.png"
+  },
+  {
+    "Brand": "Kemper",
+    "Name": "Remote",
+    "Width": 16.5,
+    "Height": 7,
+    "Image": "kemper-remote.png"
+  }
+]

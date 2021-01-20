@@ -1,0 +1,51 @@
+[
+  {
+    "Brand": "Analog.Man",
+    "Name": "Dual Analog Delay",
+    "Width": 4.6,
+    "Height": 5.5,
+    "Image": "analogman-dualanalogdelay.png"
+  },
+  {
+    "Brand": "Analog.Man",
+    "Name": "King of Tone",
+    "Width": 4.7,
+    "Height": 3.914,
+    "Image": "analogman-kingoftone.png"
+  },
+  {
+    "Brand": "Analog.Man",
+    "Name": "Peppermint Fuzz",
+    "Width": 2.7,
+    "Height": 4.39,
+    "Image": "analogman-peppermint.png"
+  },
+  {
+    "Brand": "Analog.Man",
+    "Name": "Prince of Tone",
+    "Width": 2.5,
+    "Height": 4.65,
+    "Image": "analogman-princeoftone.png"
+  },
+  {
+    "Brand": "Analog.Man",
+    "Name": "Sunbender",
+    "Width": 2.6,
+    "Height": 4.3,
+    "Image": "analogman-sunbender.png"
+  },
+  {
+    "Brand": "Analog.Man",
+    "Name": "Sunface",
+    "Width": 2.6,
+    "Height": 4.3,
+    "Image": "analogman-sunface.png"
+  },
+  {
+    "Brand": "Analog.Man",
+    "Name": "Sunlion",
+    "Width": 4.8,
+    "Height": 3.7,
+    "Image": "analogman-sunlion.png"
+  }
+]

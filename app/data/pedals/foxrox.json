@@ -1,0 +1,58 @@
+[
+  {
+    "Brand": "Foxrox",
+    "Name": "Aquavibe",
+    "Width": 3.85,
+    "Height": 5.15,
+    "Image": "foxrox-aquavibe.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Festival",
+    "Width": 5.5,
+    "Height": 5,
+    "Image": "foxrox-festival.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Hot Silicon",
+    "Width": 3.85,
+    "Height": 5.15,
+    "Image": "foxrox-hotsilicon.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Octron",
+    "Width": 3.85,
+    "Height": 5.15,
+    "Image": "foxrox-octron.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Octron 2",
+    "Width": 5.5,
+    "Height": 5,
+    "Image": "foxrox-octron2.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Octron 3",
+    "Width": 3,
+    "Height": 5,
+    "Image": "foxrox-octron3.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Paradox TZF2",
+    "Width": 5.5,
+    "Height": 5,
+    "Image": "foxrox-paradoxtzf2.png"
+  },
+  {
+    "Brand": "Foxrox",
+    "Name": "Zim",
+    "Width": 5.5,
+    "Height": 5,
+    "Image": "foxrox-paradoxtzf2.png"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Brand": "Death By Audio",
+    "Name": "Echo Dream 2",
+    "Width": 4.65,
+    "Height": 5.67,
+    "Image": "deathbyaudio-echodream2.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Evil Filter",
+    "Width": 4.6,
+    "Height": 7.48,
+    "Image": "deathbyaudio-evilfilter.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Fuzz War",
+    "Width": 4.65,
+    "Height": 5.67,
+    "Image": "deathbyaudio-fuzzwar.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Ghost Delay",
+    "Width": 4.65,
+    "Height": 5.67,
+    "Image": "deathbyaudio-ghost.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Interstellar Overdrive",
+    "Width": 3.66,
+    "Height": 4.65,
+    "Image": "deathbyaudio-interstellaroverdrive.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Micro Dream Delay",
+    "Width": 2.56,
+    "Height": 4.69,
+    "Image": "deathbyaudio-microdream.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Reverberation Machine",
+    "Width": 3.58,
+    "Height": 4.8,
+    "Image": "deathbyaudio-reverberationmachine.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Robot",
+    "Width": 4.65,
+    "Height": 5.67,
+    "Image": "deathbyaudio-robot.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Supersonic Fuzz Gun",
+    "Width": 4.65,
+    "Height": 3.66,
+    "Image": "deathbyaudio-fuzzgun.png"
+  },
+  {
+    "Brand": "Death By Audio",
+    "Name": "Waveform Destroyer",
+    "Width": 4.65,
+    "Height": 5.67,
+    "Image": "deathbyaudio-waveformdestroyer.png"
+  }
+]

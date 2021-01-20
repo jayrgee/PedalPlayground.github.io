@@ -1,0 +1,247 @@
+[
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Acapulco Gold",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-acapulcogold.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Afterneath",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-afterneath.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Arrows",
+    "Width": 2.75,
+    "Height": 4.37,
+    "Image": "earthquaker-arrows.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Avalanche Run",
+    "Width": 3.7,
+    "Height": 4.625,
+    "Image": "eqd-avalancherun.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Bit Commander",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-bitcommander.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Black Ash Fuzz",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "eqd-blackash.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Cloven Hoof",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-clovenhoof.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Data Corrupter",
+    "Width": 4.75,
+    "Height": 5.65,
+    "Image": "earthquaker-data-corrupter.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Disaster Transport",
+    "Width": 5.5,
+    "Height": 4.5,
+    "Image": "earthquaker-disastertransport.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Dispatch Master",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquakerdevices-dispatchmaster.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Dunes",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "eqd-dunes.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Grand Orbiter",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-grandorbiter.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Gray Channel",
+    "Width": 3.7,
+    "Height": 4.625,
+    "Image": "earthquaker-graychannel.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Hoof",
+    "Width": 2.36,
+    "Height": 4.76,
+    "Image": "earthquaker-hoof.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Hoof Reaper",
+    "Width": 5.5,
+    "Height": 4.67,
+    "Image": "earthquaker-hoofreaper.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Hoof Reaper v2",
+    "Width": 5.5,
+    "Height": 4.5,
+    "Image": "earthquaker-hoofreaper-v2.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Hummingbird",
+    "Width": 2.5,
+    "Height": 4.625,
+    "Image": "earthquaker-hummingbird.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Levitation",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-levitation.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Night Wire",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-nightwire.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Organizer",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-organizer.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Palisades",
+    "Width": 5.5,
+    "Height": 4.5,
+    "Image": "earthquaker-palisades.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Park Fuzz Sound",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-parkfuzz.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Plumes",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-plumes.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Pyramids",
+    "Width": 4.15,
+    "Height": 4.65,
+    "Image": "earthquaker-devices-pyramids.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Rainbow Machine",
+    "Width": 3.7,
+    "Height": 4.625,
+    "Image": "earthquaker-rainbowmachine.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Sea Machine",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-seamachine.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Space Spiral",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-spacespiral.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Spires",
+    "Width": 3.7,
+    "Height": 4.625,
+    "Image": "earthquaker-spires.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Swiss Things",
+    "Width": 5.875,
+    "Height": 4.875,
+    "Image": "eqd-swissthings.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Tentacle",
+    "Width": 2.5,
+    "Height": 4.625,
+    "Image": "earthquaker-tentacle.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "The Depths",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-thedepths.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Tone Job",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-tonejob.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Transmisser",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "earthquaker-transmisser.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Warden",
+    "Width": 2.6,
+    "Height": 4.97,
+    "Image": "earthquaker-warden.png"
+  },
+  {
+    "Brand": "Earthquaker Devices",
+    "Name": "Westwood",
+    "Width": 2.6,
+    "Height": 4.93,
+    "Image": "eqd-westwood.png"
+  }
+]

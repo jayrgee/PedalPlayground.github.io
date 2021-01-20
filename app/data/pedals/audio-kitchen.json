@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Audio Kitchen",
+    "Name": "The Big Trees",
+    "Width": 8.75,
+    "Height": 5.75,
+    "Image": "audio-kitchen-tbt.png"
+  },
+  {
+    "Brand": "Audio Kitchen",
+    "Name": "The Small Trees",
+    "Width": 4.6,
+    "Height": 3.6,
+    "Image": "audio-kitchen-tst.png"
+  }
+]

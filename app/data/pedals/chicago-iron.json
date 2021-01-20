@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Chicago Iron",
+    "Name": "Octavian",
+    "Width": 3.11,
+    "Height": 5.276,
+    "Image": "chicagoiron-octavia.png"
+  },
+  {
+    "Brand": "Chicago Iron",
+    "Name": "Octavian Plus",
+    "Width": 3.11,
+    "Height": 5.276,
+    "Image": "chicagoiron-octavianplus.png"
+  }
+]

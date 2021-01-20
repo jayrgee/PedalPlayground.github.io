@@ -1,0 +1,23 @@
+[
+  {
+    "Brand": "MI Audio",
+    "Name": "Crunchbox",
+    "Width": 2.5,
+    "Height": 4.3,
+    "Image": "miaudio-crunchbox.png"
+  },
+  {
+    "Brand": "MI Audio",
+    "Name": "Super Crunch Box",
+    "Width": 2.59,
+    "Height": 4.3,
+    "Image": "miaudio-supercrunchbox.png"
+  },
+  {
+    "Brand": "MI Audio",
+    "Name": "Super Crunch Box V2",
+    "Width": 2.59,
+    "Height": 4.3,
+    "Image": "mi-audio-super-crunch-box-v2.png"
+  }
+]

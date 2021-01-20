@@ -1,0 +1,100 @@
+[
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Blooper",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-blooper.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Brothers",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-brothers.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "CXM 1978",
+    "Width": 5.75,
+    "Height": 6.5,
+    "Image": "chasebliss-cxm1978.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Condor",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-condor.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Dark World",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-darkworld.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Faves",
+    "Width": 1.26,
+    "Height": 3.3,
+    "Image": "chasebliss-faves.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Gravitas",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-gravitas.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "MOOD",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-mood.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Preamp MKII",
+    "Width": 5.75,
+    "Height": 6.5,
+    "Image": "chasebliss-automatone-pre.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Spectre",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-spectre.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Thermae",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-thermae.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Tonal Recall",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-tonalrecall.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Warped Vinyl",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-warpedvinyl.png"
+  },
+  {
+    "Brand": "Chase Bliss",
+    "Name": "Wombtone",
+    "Width": 2.85,
+    "Height": 4.85,
+    "Image": "chasebliss-wombtone.png"
+  }
+]

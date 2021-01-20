@@ -1,0 +1,30 @@
+[
+  {
+    "Brand": "Korg",
+    "Name": "GA Custom Handheld Tuner",
+    "Width": 3.9,
+    "Height": 2.56,
+    "Image": "korg-gahandheldtuner.png"
+  },
+  {
+    "Brand": "Korg",
+    "Name": "Pitchblack",
+    "Width": 2.68,
+    "Height": 4.72,
+    "Image": "korg-pitchblack.png"
+  },
+  {
+    "Brand": "Korg",
+    "Name": "Pitchblack Advance",
+    "Width": 2.68,
+    "Height": 4.37,
+    "Image": "korg-pitchblackadvance.png"
+  },
+  {
+    "Brand": "Korg",
+    "Name": "Pitchblack Mini",
+    "Width": 1.77,
+    "Height": 3.66,
+    "Image": "korg-pitchblackmini.png"
+  }
+]

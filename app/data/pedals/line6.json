@@ -1,0 +1,86 @@
+[
+  {
+    "Brand": "Line6",
+    "Name": "DL4 Delay",
+    "Width": 10,
+    "Height": 6,
+    "Image": "line6-dl4.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Echo Park",
+    "Width": 3.37,
+    "Height": 5.63,
+    "Image": "line6-echopark.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "HX Effects",
+    "Width": 10.8,
+    "Height": 7.9,
+    "Image": "line6-hx-effects.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "HX Stomp",
+    "Width": 7,
+    "Height": 4.96,
+    "Image": "line6-hxstomp.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Helix",
+    "Width": 22.05,
+    "Height": 11.85,
+    "Image": "line6-helix.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Helix LT",
+    "Width": 21,
+    "Height": 11.85,
+    "Image": "line6-helix-lt.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "M5",
+    "Width": 5.85,
+    "Height": 6.5,
+    "Image": "line6-m5.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "M9",
+    "Width": 10.5,
+    "Height": 6.5,
+    "Image": "line6-m9.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Relay Wireless G10",
+    "Width": 3.88,
+    "Height": 3.88,
+    "Image": "line6-g10relay.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Relay Wireless G10S",
+    "Width": 3.5,
+    "Height": 5,
+    "Image": "line6-g10srelay.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Relay Wireless G70",
+    "Width": 4,
+    "Height": 5.5,
+    "Image": "line6-g70relay.png"
+  },
+  {
+    "Brand": "Line6",
+    "Name": "Verbzilla",
+    "Width": 3.29,
+    "Height": 5.63,
+    "Image": "line6-verbzilla.png"
+  }
+]

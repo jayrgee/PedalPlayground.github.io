@@ -1,0 +1,16 @@
+[
+  {
+    "Brand": "Barefoot Buttons",
+    "Name": "V1",
+    "Width": 1.125,
+    "Height": 1.125,
+    "Image": "barefoot-button.png"
+  },
+  {
+    "Brand": "Barefoot Buttons",
+    "Name": "V1 Mini",
+    "Width": 0.75,
+    "Height": 0.75,
+    "Image": "barefoot-button.png"
+  }
+]
